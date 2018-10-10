@@ -1,0 +1,147 @@
+body {
+    background-image: url(../art/backgroundimage.png);
+    background-repeat: repeat;
+}
+
+.NavBar {
+    clear: both;
+    background-color: #ffffff;
+    padding-top: 0px;
+    text-align: center;
+}
+
+.aboutmemain {
+    width: 950;
+}
+
+.mr-3 {
+    width: 64px;
+
+}
+
+.copyright {
+    text-align: center;
+    background-color:  #777777;
+    color: #ffffff;
+    border-top: 3px solid #4aaaa5;
+    width: 100%;
+    margin: 0;
+}
+
+.copyrightdiv {
+    padding: 0;
+}
+
+
+.media {
+    background-color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #666666;
+    margin: 20px;
+}
+
+.NavBar ul li h1:first-child {
+    float: left;
+    background-color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #ffffff;
+    margin: 0;
+    padding: 10px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.mt-0 {
+    color: #4aaaa5;
+    margin-bottom: 25px;
+    Border-bottom: 3px solid #4aaaa5;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    width: 900px;    
+}
+
+.fixed-bottom {
+    padding: 0px;
+}
+
+.nav-item {
+    list-style: none;
+    float: right;
+    padding-top: 28px;
+}
+
+#JesseBanner1 {
+    float: left;
+    left: 0
+}
+
+.AboutMeMain {
+    overflow: auto;
+}
+
+.Contactme {
+    width: 960px;
+    background-color: #ffffff;
+    overflow: auto;
+    border: #4aaaa5 1px solid;
+    margin: 30px auto;
+    height: 575px;
+    padding-top: 25px;
+    color: #666666;
+    
+
+}
+
+.form-group {
+    width: 900px;
+}
+
+#exampleFormControlTextarea1 {
+    height: 200px;
+}
+
+.media-body {
+    padding-right: 10px;
+}
+
+.portfoliomain {
+    width: 960px;
+    background-color: #ffffff;
+    overflow: auto;
+    border: #4aaaa5 1px solid;
+    margin: 30px auto;
+    height: 575px;
+    padding-top: 25px;
+    color: #666666;
+}
+
+.card-deck {
+    width: 350px;
+    display: flex;
+    margin: 15px 0px;
+    text-decoration: none;
+    color: #777777;
+    text-align: center;
+}
+
+a:link {
+    color: #666666;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #4aaaa5;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #666666;
+    text-decoration: none;
+}
+
+a:active {
+    color: #4aaaa5;
+    text-decoration: underline;
+}
